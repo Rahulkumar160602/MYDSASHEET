@@ -42,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0560-subarray-sum-equals-k) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
