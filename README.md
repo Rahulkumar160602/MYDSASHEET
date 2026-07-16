@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0040-combination-sum-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0134-gas-station) |
 | [0216-combination-sum-iii](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0216-combination-sum-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0560-subarray-sum-equals-k) |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
