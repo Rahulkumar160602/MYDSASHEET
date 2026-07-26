@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0134-gas-station) |
 | [0216-combination-sum-iii](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0216-combination-sum-iii) |
+| [0416-partition-equal-subset-sum](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0560-subarray-sum-equals-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0416-partition-equal-subset-sum](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0416-partition-equal-subset-sum) |
 ## Depth-First Search
 |  |
 | ------- |
