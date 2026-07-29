@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0416-partition-equal-subset-sum) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Depth-First Search
 |  |
 | ------- |
