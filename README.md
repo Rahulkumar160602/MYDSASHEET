@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0402-remove-k-digits) |
 ## Greedy
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0234-palindrome-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -95,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0036-valid-sudoku) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
