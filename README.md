@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0402-remove-k-digits) |
 ## Stack
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0257-binary-tree-paths) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
@@ -105,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0234-palindrome-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
