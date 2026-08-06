@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0005-longest-palindromic-substring) |
 | [0257-binary-tree-paths](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0402-remove-k-digits) |
 ## Stack
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0005-longest-palindromic-substring) |
 | [0234-palindrome-linked-list](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0234-palindrome-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0416-partition-equal-subset-sum) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0701-insert-into-a-binary-search-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
