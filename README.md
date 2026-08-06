@@ -112,8 +112,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0257-binary-tree-paths) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0257-binary-tree-paths) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Rahulkumar160602/MYDSASHEET/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
